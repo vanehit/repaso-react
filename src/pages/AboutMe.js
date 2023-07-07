@@ -1,7 +1,7 @@
-export default function Contact() {
+export default function AboutMe() {
     return (
         <div>
-            <h4>Desde Contact</h4>
+            <h4>Desde Sobre Mi</h4>
             <p>Segunda prueba</p>
         </div>
     )
